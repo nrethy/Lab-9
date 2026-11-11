@@ -3,6 +3,8 @@
 ** created: 11/10/26
 ** author: noah rethwisch
 ** description: demonstrate information maintenance system calls
+** assignment name: Lab 9 System Calls
+** section number: 111
 */
 
 #include <stdio.h>

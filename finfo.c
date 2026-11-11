@@ -3,6 +3,8 @@
 ** created: 11/10/26
 ** author: noah rethwisch
 ** description: display file information about a provided file
+** assignment name: Lab 9 System Calls
+** section number: 111
 */
 
 #define _GNU_SOURCE

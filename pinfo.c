@@ -3,6 +3,8 @@
 ** created: 11/10/26
 ** author: noah rethwisch
 ** description: demonstrate process control system calls
+** assignment name: Lab 9 system calls
+** section number: 111
 */
 
 #define _GNU_SOURCE

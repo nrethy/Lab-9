@@ -3,6 +3,8 @@
 ** created: 11/10/26
 ** author: noah rethwisch
 ** description: demonstrate altering processes in linux
+** assignment name: Lab 9 System Calls
+** section number: 111
 */
 
 #include <unistd.h>
